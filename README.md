@@ -11,11 +11,11 @@ To test and run the App, please follow the below instructions using a CLI;
 2) cd into the restApiServer directory and run the mocha/chai unit tests with command 'npm test'.
 3) after running the tests, start the 'development' REST API Server with command 'npm start'.
 4) cd into the client-sales-app directory and start react's front-end facing server with command 'npm start'.
-5) open a browser and point it at http://localhost:3000
+5) open a browser and point it to http://localhost:3000
 
 All CRUD operations (POST/GET/PUT/DELETE) have been implemented and tested (using Mocha/Chai).
 
-You may use https://www.getpostman.com/ for manual testing, by point it at http://localhost:8080
+You may use https://www.getpostman.com/ for manual testing. Point it to http://localhost:8080
 
 Request Body format should be 'x-www-form-urlencoded'.
 
