@@ -3,7 +3,7 @@ JP Morgan - Javascript Technical Challange - Clients &amp; Sales
 
 Please install mongoDB, node 6.9.1, and react
 
-To run the test App, please follow these instructions;
+To run the test App, please follow these instructions from a CLI;
 
 1) start mongo server with command 'mongod'.
 2) cd into the restApiServer directory and run the mocha/chai unit tests with command 'npm test'.
