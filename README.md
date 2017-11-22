@@ -15,4 +15,4 @@ All CRUD operations (POST/GET/PUT/DELETE) have been implemented and tested (with
 
 You may use https://www.getpostman.com/ for manual testing. 
 
-Please Note: The front-end will only update any changes to the back-end mongoDB after a page refresh or after navigating to either of the app's main Client/Sales routes via the GUI tabs provided.
+Please Note: The front-end will only update manual changes made to the back-end's mongoDB (via Postman) after a page refresh or after navigating to either of the app's main Client/Sales routes via the GUI tabs provided.
