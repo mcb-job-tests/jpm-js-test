@@ -8,7 +8,7 @@ To test and run App, please follow the below instructions from a CLI;
 1) start mongo server with command 'mongod'.
 2) cd into the restApiServer directory and run the mocha/chai unit tests with command 'npm test'.
 3) start the rest API Server with command 'npm start'
-4) cd into the client-sales-app directory and start the react's fromt end server with command 'npm start'
+4) cd into the client-sales-app directory and start the react's front end server with command 'npm start'
 5) open a browser and point it to http://localhost:3000
 
 All CRUD operations (POST/GET/PUT/DELETE) have been implemented and tested (with Mocha/Chai).
