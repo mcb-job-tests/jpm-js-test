@@ -3,6 +3,8 @@ JP Morgan - Javascript Technical Challange - Clients &amp; Sales
 
 Please install mongoDB, node 6.9.1, and create-react-app (https://github.com/facebookincubator/create-react-app)
 
+We had some issues installing some dependencies using the latest version of npm on windows, which was solved with version 5.3.0
+
 To test and run the App, please follow the below instructions using a CLI;
 
 1) start mongo server with command 'mongod'.
