@@ -19,7 +19,7 @@ Valid REST Routes are;
 1) GET /api/clients
 2) GET /api/clients/:_id
 3) GET /api/sales
-4) GET /api/clients/:_id
+4) GET /api/sales/:_id
 5) POST /api/clients
 6) POST /api/sales
 7) PUT /api/clients/:_id
