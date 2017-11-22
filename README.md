@@ -3,11 +3,11 @@ JP Morgan - Javascript Technical Challange - Clients &amp; Sales
 
 Please install mongoDB, node 6.9.1, and create-react-app (https://github.com/facebookincubator/create-react-app)
 
-To test and run the App, please follow the below instructions from a CLI;
+To test and run the App, please follow the below instructions using a CLI;
 
 1) start mongo server with command 'mongod'.
 2) cd into the restApiServer directory and run the mocha/chai unit tests with command 'npm test'.
-3) start the rest API Server with command 'npm start'
+3) after running the tests, start the 'development' REST API Server with command 'npm start'
 4) cd into the client-sales-app directory and start the react's front end server with command 'npm start'
 5) open a browser and point it to http://localhost:3000
 
