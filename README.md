@@ -17,6 +17,8 @@ All CRUD operations (POST/GET/PUT/DELETE) have been implemented and tested (usin
 
 You may use https://www.getpostman.com/ for manual testing, by point it at http://localhost:8080
 
+Request Body format should be 'x-www-form-urlencoded'.
+
 Valid REST Routes are;
 1) GET /api/clients
 2) GET /api/clients/:_id
