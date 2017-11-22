@@ -13,7 +13,7 @@ To test and run the App, please follow the below instructions using a CLI;
 
 All CRUD operations (POST/GET/PUT/DELETE) have been implemented and tested (with Mocha/Chai).
 
-You may use https://www.getpostman.com/ for manual testing. 
+You may use https://www.getpostman.com/ for manual testing @ http://localhost:8080
 
 Valid REST Routes are;
 1) GET /api/clients
