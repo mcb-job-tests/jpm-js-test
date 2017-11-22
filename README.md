@@ -1,7 +1,7 @@
 # jpm-js-test
 JP Morgan - Javascript Technical Challange - Clients &amp; Sales
 
-Please install mongoDB, node 5.9.1, and react
+Please install mongoDB, node 6.9.1, and react
 
 To run the test App, please follow these instructions;
 
