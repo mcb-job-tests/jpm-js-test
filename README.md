@@ -11,4 +11,8 @@ To run the test App, please follow these instructions from a CLI;
 4) cd into the client-sales-app directory and start the react's fromt end server with command 'npm start'
 5) open a browser and point it to http://localhost:3000
 
-All CRUD operations (GET/POST/PUT/DELETE) have been implemented and tested. Use https://www.getpostman.com/ for manual testing.
+All CRUD operations (POST/GET/PUT/DELETE) have been implemented and tested (with Mocha/Chai).
+
+You may use https://www.getpostman.com/ for manual testing. 
+
+Please Note: The front-end will only update any changes to the back-end mongoDB after a page refresh or after navigating to either of the app's main Client/Sales routes via the GUI tabs provided.
