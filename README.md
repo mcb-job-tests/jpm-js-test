@@ -10,3 +10,5 @@ To run the test App, please follow these instructions;
 3) start the rest API Server with command 'npm start'
 4) cd into the client-sales-app directory and start the react's fromt end server with command 'npm start'
 5) open a browser and point it to http://localhost:3000
+
+All CRUD operations (GET/POST/PUT/DELETE) have been implemented and tested. Use https://www.getpostman.com/ for manual testing.
