@@ -13,6 +13,18 @@ To test and run App, please follow the below instructions from a CLI;
 
 All CRUD operations (POST/GET/PUT/DELETE) have been implemented and tested (with Mocha/Chai).
 
+Valid REST Routes are;
+GET /api/clients
+GET /api/clients/:_id
+GET /api/sales
+GET /api/clients/:_id
+POST /api/clients
+POST /api/sales
+PUT /api/clients/:_id
+PUT /api/sales/:_id
+DELETE /api/clients/:_id
+DELETE /api/sales/:_id
+
 You may use https://www.getpostman.com/ for manual testing. 
 
 Please Note: The front-end will only update manual changes made to the back-end's mongoDB (via Postman) after a page refresh or after navigating to either of the app's main Client/Sales routes via the GUI tabs provided.
