@@ -14,16 +14,16 @@ To test and run App, please follow the below instructions from a CLI;
 All CRUD operations (POST/GET/PUT/DELETE) have been implemented and tested (with Mocha/Chai).
 
 Valid REST Routes are;
-GET /api/clients
-GET /api/clients/:_id
-GET /api/sales
-GET /api/clients/:_id
-POST /api/clients
-POST /api/sales
-PUT /api/clients/:_id
-PUT /api/sales/:_id
-DELETE /api/clients/:_id
-DELETE /api/sales/:_id
+1) GET /api/clients
+2) GET /api/clients/:_id
+3) GET /api/sales
+4) GET /api/clients/:_id
+5) POST /api/clients
+6) POST /api/sales
+7) PUT /api/clients/:_id
+8) PUT /api/sales/:_id
+9) DELETE /api/clients/:_id
+10) DELETE /api/sales/:_id
 
 You may use https://www.getpostman.com/ for manual testing. 
 
