@@ -1,0 +1,28 @@
+{
+  "name": "gulptask",
+  "version": "1.0.0",
+  "description": "task runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcb-job-tests/jpm-js-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcb-job-tests/jpm-js-test/issues"
+  },
+  "homepage": "https://github.com/mcb-job-tests/jpm-js-test#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^4.3.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-run": "^1.7.1",
+    "gulp-util": "^3.0.8",
+    "run-sequence": "^2.2.0",
+    "should": "^13.1.3"
+  }
+}

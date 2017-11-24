@@ -5,13 +5,15 @@ Please install mongoDB, node 6.9.1, and create-react-app (https://github.com/fac
 
 We had issues installing some dependencies using the latest version of npm on windows. This was solved by using npm version 5.3.0
 
-To test and run the App, please follow the below instructions using a CLI;
+To manually test and run the App, please follow the below instructions using a CLI;
 
 1) start mongo server with command 'mongod'.
 2) cd into the restApiServer directory and run the mocha/chai unit tests with command 'npm test'.
 3) after running the tests, start the 'development' REST API Server with command 'npm start'.
 4) cd into the client-sales-app directory and start react's front-end facing server with command 'npm start'.
 5) open a browser and point it to http://localhost:3000
+
+UPDATE (24/11/17): To automate the above the workflow, use the CLI command 'gulp' from the root directory.
 
 All CRUD operations (POST/GET/PUT/DELETE) have been implemented and tested (using Mocha/Chai).
 
