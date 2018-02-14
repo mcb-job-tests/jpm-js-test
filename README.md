@@ -1,5 +1,5 @@
-# jpm-js-test
-JP Morgan - Javascript Technical Challange - Clients &amp; Sales
+# react-js-rest-test
+Javascript Technical Challange - Clients &amp; Sales
 
 Please install mongoDB, node 6.9.1, and create-react-app (https://github.com/facebookincubator/create-react-app)
 
